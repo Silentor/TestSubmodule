@@ -7,7 +7,9 @@ using System.Collections.Generic;
 //change from another project
 //fixed at new project
 
-some small change
+//some small change
+//fixed at proj1
+//version bump
 
 namespace Flexy.Utils2.Runtime
 {
