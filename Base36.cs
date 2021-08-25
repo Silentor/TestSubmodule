@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
 
-another error 2
-
 namespace Flexy.Utils2.Runtime
 {
     public static class Base36
