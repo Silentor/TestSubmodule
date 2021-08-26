@@ -13,5 +13,12 @@
   	},
 	"dependencies": {
 		"com.unity.collections": "0.9.0-preview.6"
-	}
+	},
+	"samples": [
+        {
+            "displayName": "Unity project",
+            "description": "Contains Unity project with Flexy.Utils package",
+            "path": "Samples~/UnityProj"
+        }
+	]
 }
