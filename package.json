@@ -17,7 +17,8 @@
 	"samples": [
         {
             "displayName": "Unity project",
-            "description": "Contains unity project for running package",
+            "description": "Contains Unity project with Flexy.Utils package",
             "path": "Samples~/UnityProj"
         }
+	]
 }
